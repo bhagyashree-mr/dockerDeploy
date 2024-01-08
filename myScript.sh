@@ -3,6 +3,7 @@ echo "Start of the script"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 echo "Contents of Automobiles.txt"
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 cat -n /app/Automobiles.txt
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
