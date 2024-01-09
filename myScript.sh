@@ -5,6 +5,7 @@ echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 echo "Contents of Automobiles.txt"
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 cat -n /app/Automobiles.txt
+echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
 sort -f /app/Automobiles.txt > /app/Sorted_automobiles.txt
